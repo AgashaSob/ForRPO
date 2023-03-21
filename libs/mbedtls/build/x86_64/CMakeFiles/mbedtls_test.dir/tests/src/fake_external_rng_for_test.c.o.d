@@ -1,0 +1,21 @@
+CMakeFiles/mbedtls_test.dir/tests/src/fake_external_rng_for_test.c.o: \
+  /home/agnia/AndroidStudioProjects/ForRPO/libs/mbedtls/mbedtls/tests/src/fake_external_rng_for_test.c \
+  /home/agnia/AndroidStudioProjects/ForRPO/libs/mbedtls/mbedtls/tests/include/test/fake_external_rng_for_test.h \
+  /home/agnia/AndroidStudioProjects/ForRPO/libs/mbedtls/mbedtls/include/mbedtls/build_info.h \
+  /home/agnia/AndroidStudioProjects/ForRPO/libs/mbedtls/mbedtls/include/mbedtls/mbedtls_config.h \
+  /home/agnia/AndroidStudioProjects/ForRPO/libs/mbedtls/mbedtls/include/mbedtls/config_psa.h \
+  /home/agnia/AndroidStudioProjects/ForRPO/libs/mbedtls/mbedtls/include/mbedtls/check_config.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/14.0.7/include/limits.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/limits.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/sys/cdefs.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/android/versioning.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/android/api-level.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/bits/get_device_api_level_inlines.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/android/ndk-version.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/14.0.7/include/float.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/linux/limits.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/bits/posix_limits.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/14.0.7/include/stdint.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/stdint.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/sysroot/usr/include/bits/wchar_limits.h \
+  /media/agnia/_rpo/Android/Sdk/ndk/25.2.9519653/toolchains/llvm/prebuilt/linux-x86_64/lib64/clang/14.0.7/include/stddef.h
